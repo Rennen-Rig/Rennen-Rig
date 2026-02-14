@@ -133,7 +133,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 3.9 KB
+        Rust 7.3 KB
       </text>
     </g>
   </g>
@@ -144,8 +144,8 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="82.86"
-          d="M 66.77107455869327 89.8051514579921 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          size="72.24"
+          d="M 60.849937356732525 126.44438829558668 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
           stroke="#ffaff3"
           fill="none"
           stroke-width="12">
@@ -155,8 +155,8 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="17.14"
-          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 66.77107455869327 89.8051514579921"
+          size="27.76"
+          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 60.849937356732525 126.44438829558668"
           stroke="#dea584"
           fill="none"
           stroke-width="12">
