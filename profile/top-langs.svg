@@ -124,16 +124,16 @@
       <g transform="translate(0, 0)">
         <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#ffaff3" />
+      <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Gleam 19.0 KB
+        Rust 25.3 KB
       </text>
     </g>
   </g><g transform="translate(0, 32)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#dea584" />
+      <circle cx="5" cy="6" r="5" fill="#ffaff3" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 14.5 KB
+        Gleam 19.0 KB
       </text>
     </g>
   </g>
@@ -144,9 +144,9 @@
        <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-donut"
-          size="56.65"
-          d="M 93.67248039891534 168.45835044886348 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
-          stroke="#ffaff3"
+          size="57.2"
+          d="M 91.8967732231138 167.63296425542768 A 56.66666666666667 56.66666666666667 0 1 0 116.66666666666667 60"
+          stroke="#dea584"
           fill="none"
           stroke-width="12">
         </path>
@@ -155,9 +155,9 @@
        <g class="stagger" style="animation-delay: 700ms">
         <path
           data-testid="lang-donut"
-          size="43.35"
-          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 93.67248039891534 168.45835044886348"
-          stroke="#dea584"
+          size="42.8"
+          d="M 116.66666666666666 60 A 56.66666666666667 56.66666666666667 0 0 0 91.8967732231138 167.63296425542768"
+          stroke="#ffaff3"
           fill="none"
           stroke-width="12">
         </path>
